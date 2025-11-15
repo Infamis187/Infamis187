@@ -1,0 +1,44 @@
+[
+  {
+    "name": "theme_info",
+    "theme_name": "Infamis187 Store",
+    "theme_version": "1.0.0",
+    "theme_author": "Infamis187",
+    "theme_documentation_url": "",
+    "theme_support_url": ""
+  },
+  {
+    "name": "Colors",
+    "settings": [
+      {
+        "type": "color",
+        "id": "color_primary",
+        "label": "Primary color",
+        "default": "#667eea"
+      },
+      {
+        "type": "color",
+        "id": "color_secondary",
+        "label": "Secondary color",
+        "default": "#764ba2"
+      }
+    ]
+  },
+  {
+    "name": "Typography",
+    "settings": [
+      {
+        "type": "font_picker",
+        "id": "type_header_font",
+        "label": "Header font",
+        "default": "helvetica_n4"
+      },
+      {
+        "type": "font_picker",
+        "id": "type_base_font",
+        "label": "Body font",
+        "default": "helvetica_n4"
+      }
+    ]
+  }
+]
